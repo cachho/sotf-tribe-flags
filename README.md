@@ -18,11 +18,11 @@ Last but not least 350 flags only take ~20mb on your hard drive! So the more fla
 Check releases: https://github.com/cachho/sotf-tribe-flags/releases
 
 # How to install
-First, dowload the pack from the link above. Again, only 19mb. Unarchive the content in your SOTF folder. The path should look like this: 
+First, dowload the pack from the link above. Again, only 19mb. Unarchive it and copy the `MyPaintings` to your SOTF folder. The path should look like this: 
 
 `[your steam folder]\steamapps\common\ARK SOTF\ShooterGame\Saved\MyPaintings` 
 
-You should now have .pnt files in there. Now you are ready to go ingame.
+You should now have .pnt files in there. The other files in the archive can safely be deleted.  Now you are ready to go ingame.
 
 # How to update
 
@@ -80,7 +80,8 @@ This is where i give credits too everyone who helped and leave my own signature.
 I hope you enjoy my pack. I can not have everybodies favorites so suggest them in the comments and i will add them in an update. Thanks for reading through. Sadly you can not mix colors in ARK, so one of the basic colors has to be selected for everything. That causes problems with skin tones. If any skins don't work tell me in the comments, it will be fixed next update, I did not get to test all ingame yet. Thanks for your support, upvote if you like it.
 
 # Screenshots
-![s1](https://images.akamai.steamusercontent.com/ugc/458613230097829861/0125510CA15583303955231D80F55B4F749F09FC/)
+![screenshot](https://github.com/cachho/sotf-tribe-flags/blob/main/screenshots/407530_screenshots_20161016140639_1.jpg?raw=true)
+More screenshots in the download folder
 
 # VIPs
 If you are a YouTuber or Streamer, I can make you a flag or turn your logo into a flag. If I made you a flag, make sure to *give me credits under your stream or in your description* ("Tribe Flag by bThundergun http:/youtube.com/bthudergun")
