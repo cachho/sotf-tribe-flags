@@ -3,6 +3,12 @@
 
 **This is the 2nd most popular SOTF Steam Guide post of all time. It's been downloaded >2000 times.**
 
+## Stats
+* Ranking: #2
+* Downloads: >2000 tracked downloads
+* Page views: >17,000
+* Favorites: 232
+
 # Introduction
 Hello, I always was a fan of tribe flags, for me they were a unique way to customize your game. This love eventually made me think about creating a tribe flag pack. What i like about tribe flags is that they are visible to your tribe mates in the lobby and all players ingame. They can be used to show-off and comply with your tribe name to have a fun experience. 
 *All flags are cropped individually and are individually optimized for ARK ingame*. 
