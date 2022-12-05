@@ -1,7 +1,7 @@
 # Tribe Flags Pack for ARK: Survival of the Fittest (SOTF)
 300+ free tribe flags to use ingame. More in the future. Contains ARK, Battlefield, Call of Duty, Mario, Logos, Girls, Politicians etc.
 
-**This is the 2nd most popular SOTF Steam Guide post of all time. It's been downloaded >2000 times.**
+**I've started this project in 2016. I want to make it open source to allow new contributions, encourage the community working together, boost the trust and for easier distribution**
 
 ## Stats
 * Ranking: #2
@@ -88,6 +88,11 @@ If you are a YouTuber or Streamer, I can make you a flag or turn your logo into 
 
 Current VIPs
 * #1 Acential
+
+# Contribute
+To create .pnt files that can be read in ARK I recommend using this Windows Tool: https://steamcommunity.com/sharedfiles/filedetails/?id=518906272, the *Ark Paint Converter - Convert Images to Ark pnt* made by *8bitpineapple*
+
+Then you can create a pull request with your files added.
 
 # My other mods...
 http://steamcommunity.com/id/cachhodp/myworkshopfiles/
