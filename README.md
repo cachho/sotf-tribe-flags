@@ -81,7 +81,7 @@ I hope you enjoy my pack. I can not have everybodies favorites so suggest them i
 
 # Screenshots
 ![screenshot](https://github.com/cachho/sotf-tribe-flags/blob/main/screenshots/407530_screenshots_20161016140639_1.jpg?raw=true)
-More screenshots in the download folder
+More screenshots in the screenshots folder (https://github.com/cachho/sotf-tribe-flags/tree/main/screenshots) 
 
 # VIPs
 If you are a YouTuber or Streamer, I can make you a flag or turn your logo into a flag. If I made you a flag, make sure to *give me credits under your stream or in your description* ("Tribe Flag by bThundergun http:/youtube.com/bthudergun")
